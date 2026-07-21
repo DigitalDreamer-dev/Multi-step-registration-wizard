@@ -36,3 +36,7 @@ AI assistance was used during the development process for:
 - Getting suggestions for UI color combinations and styling improvements
 
 All final implementation decisions, code integration, and project development were done by the developer.
+
+## 📸 Screenshot
+
+![App Screenshot](./Form.png)
